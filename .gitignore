@@ -1,0 +1,11 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Sensitive variables
+*.tfvars
+
+# macOS
+.DS_Store
